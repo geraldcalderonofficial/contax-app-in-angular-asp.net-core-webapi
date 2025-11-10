@@ -1,4 +1,4 @@
-# Contax Application in Angular and ASP.NET Core Web API
+# Contax App in Angular and ASP.NET Core Web API
 
 A fullstack contacts application in which we will perform CRUD operations in our contact list. 
 
