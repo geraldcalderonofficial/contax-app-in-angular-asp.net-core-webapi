@@ -1,0 +1,6 @@
+@Contax_HostAddress = http://localhost:5273
+
+GET {{Contax_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
