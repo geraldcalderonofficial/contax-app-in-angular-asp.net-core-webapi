@@ -6,4 +6,4 @@ Backend: ASP.NET Core
 
 Frontend: Angular 20 and Tailwind CSS
 
-[Gerald Works]()
+[Gerald Works](https://geraldworks.dev/contact-app-in-aspnetcore-webapi-and-angular/)
